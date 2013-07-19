@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Cool | My Octopress Blog]]></title>
+  <link href="http://josdejong.com/blog/categories/cool/atom.xml" rel="self"/>
+  <link href="http://josdejong.com/"/>
+  <updated>2013-07-19T21:10:23+02:00</updated>
+  <id>http://josdejong.com/</id>
+  <author>
+    <name><![CDATA[Jos de Jong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First post!]]></title>
+    <link href="http://josdejong.com/blog/2013/07/19/first-post/"/>
+    <updated>2013-07-19T14:00:00+02:00</updated>
+    <id>http://josdejong.com/blog/2013/07/19/first-post</id>
+    <content type="html"><![CDATA[<p>Ok so this is my first post with octopress. Fun.</p>
+]]></content>
+  </entry>
+  
+</feed>
