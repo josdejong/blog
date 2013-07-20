@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://josdejong.github.io/blog/2013/07/19/welcome/</loc>
+        <loc>http://josdejong.com/blog/2013/07/19/welcome/</loc>
         <lastmod>2013-07-20T16:59:10+02:00</lastmod>
     </url>
     <url>
-        <loc>http://josdejong.github.io/</loc>
+        <loc>http://josdejong.com/</loc>
         <lastmod>2013-07-20T16:59:10+02:00</lastmod>
     </url>
     <url>
-        <loc>http://josdejong.github.io/projects/</loc>
+        <loc>http://josdejong.com/projects/</loc>
         <lastmod>2013-07-20T17:01:15+02:00</lastmod>
     </url>
     <url>
-        <loc>http://josdejong.github.io/blog/archives/</loc>
+        <loc>http://josdejong.com/blog/archives/</loc>
         <lastmod>2013-07-20T16:59:10+02:00</lastmod>
     </url>
     <url>
-        <loc>http://josdejong.github.io/contact/</loc>
+        <loc>http://josdejong.com/contact/</loc>
         <lastmod>2013-07-20T17:06:12+02:00</lastmod>
     </url>
     <url>
-        <loc>http://josdejong.github.io/robots.txt</loc>
+        <loc>http://josdejong.com/robots.txt</loc>
         <lastmod>2013-07-19T21:05:18+02:00</lastmod>
     </url>
     <url>
-        <loc>http://josdejong.github.io/about/</loc>
+        <loc>http://josdejong.com/about/</loc>
         <lastmod>2013-07-20T17:07:13+02:00</lastmod>
     </url>
 </urlset>
