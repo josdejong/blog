@@ -102,8 +102,7 @@ article {
 
 	.entry-content {
     h2 {
-      font-size: 1.4em;
-      font-weight: bold;
+      font-size: 1.6em;
     }
 
 		h3 {
@@ -171,7 +170,24 @@ article {
 			font-size: 2.2em;
 		}
 	}
-	
+
+  div.logo {
+    float: right;
+    margin: 0 10px 10px 0;
+
+    img {
+      border: none;
+
+      -webkit-box-shadow: none;
+      box-shadow: none;
+
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      -ms-border-radius: 0;
+      -o-border-radius: 0;
+      border-radius: 0;
+    }
+  }
 }
 
 figure.code {
@@ -182,3 +198,4 @@ figure.code {
 aside {
 	display: none;
 }
+

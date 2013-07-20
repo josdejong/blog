@@ -113,9 +113,9 @@ body > nav {
   &:after {
     content: "";
     position: absolute; top: -1px; left: 0;
-    background-color: lighten($nav-color, 25);
+    background-color: $subscription-color;
   }
-  &:hover:after { background-color: lighten($nav-color, 20); }
+  &:hover:after { background-color: lighten($subscription-color, 20); }
 }
 .maskImage {
   body > nav {
