@@ -8,7 +8,7 @@ html {
 }
 
 body {
-	font-family: $sans !important;
+	font-family: $serif !important;
 	font-size: 1em;
 	max-width: 850px;
 	padding-left: 0.5em;
@@ -16,14 +16,15 @@ body {
 
 	> header {
 		background: $white;
-		text-align: center;
+    background: url('../images/header.jpg');
+
+    text-align: center;
 		padding-left: 0px;
 		padding-right: 0px;	
 
 		h1 {
 			a, a:visited, a:hover {
-				color: #8C8C8C;
-				font-family: $heading-font-family;
+				font-family: $header-title-font-family;
 			}
 		}
 	}
@@ -45,7 +46,7 @@ body {
 		}
 
 		a {
-			font-family: $sans;
+			font-family: $serif;
 			font-size: 0.9em;
 			padding-top: 0.3em;
 			line-height: 1.5em;
@@ -74,8 +75,8 @@ body {
 		background: $white;
 		text-shadow: none;
 		color: #AAAAAA;
-	  	padding-left: 0;
-	  	padding-right: 0;
+	  padding-left: 0;
+	  padding-right: 0;
 		border-top: 0px;
 		padding-left: 0px;
 		padding-right: 0px;
@@ -100,8 +101,14 @@ article {
 	padding-top: 2em;
 
 	.entry-content {
+    h2 {
+      font-size: 1.4em;
+      font-weight: bold;
+    }
+
 		h3 {
-			font-style: italic
+      font-size: 1em;
+      font-weight: bold;
 		}
 	}
 
@@ -116,7 +123,7 @@ article {
 	header {
 		h1.entry-title {
 			font-family: $heading-font-family;
-			font-weight: 400;
+			font-weight: 300;
 		}
 	}
 }
@@ -125,6 +132,7 @@ article {
 	div.pagination {
 		background: none repeat scroll 0 0 transparent;
 		margin: 0 10px;  
+		font-size: 0.95em;
 		font-size: 0.95em;
 		padding-bottom: 1.5em;
 		margin-top: 4em;

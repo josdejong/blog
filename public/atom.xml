@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Jos de Jong]]></title>
   <link href="http://josdejong.com/atom.xml" rel="self"/>
   <link href="http://josdejong.com/"/>
-  <updated>2013-07-19T21:10:23+02:00</updated>
+  <updated>2013-07-20T15:31:26+02:00</updated>
   <id>http://josdejong.com/</id>
   <author>
     <name><![CDATA[Jos de Jong]]></name>
@@ -14,11 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First post!]]></title>
-    <link href="http://josdejong.com/blog/2013/07/19/first-post/"/>
-    <updated>2013-07-19T14:00:00+02:00</updated>
-    <id>http://josdejong.com/blog/2013/07/19/first-post</id>
-    <content type="html"><![CDATA[<p>Ok so this is my first post with octopress. Fun.</p>
+    <title type="html"><![CDATA[Grumpy wizards make toxic brew for the evil Queen and Jack.]]></title>
+    <link href="http://josdejong.com/blog/2013/07/19/test/"/>
+    <updated>2013-07-19T20:00:00+02:00</updated>
+    <id>http://josdejong.com/blog/2013/07/19/test</id>
+    <content type="html"><![CDATA[<h2>ipsum lorum</h2>
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &lsquo;Content here, content here&rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &lsquo;lorem ipsum&rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+
+<h2>ipsum lorum</h2>
+
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &ldquo;de Finibus Bonorum et Malorum&rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &ldquo;Lorem ipsum dolor sit amet..&rdquo;, comes from a line in section 1.10.32.</p>
+
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &ldquo;de Finibus Bonorum et Malorum&rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome!]]></title>
+    <link href="http://josdejong.com/blog/2013/07/19/welcome/"/>
+    <updated>2013-07-19T00:00:00+02:00</updated>
+    <id>http://josdejong.com/blog/2013/07/19/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome at my blog. I just installed it freshly using
+<a href="https://github.com/imathis/octopress">octopress</a>.
+Like everybody, I&rsquo;m very unique and have the world a lot of interesting things
+to tell ;&ndash;). So here we go.</p>
 ]]></content>
   </entry>
   
