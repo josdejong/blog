@@ -1,3 +1,5 @@
 .idea
 .pygments-cache
 .sass-cache
+_deploy
+public
