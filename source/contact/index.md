@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Contact"
-date: 2013-07-19 12:22
 sharing: true
 footer: true
 ---
 
-Contact...
+You can find me on github [@josdejong](https://github.com/josdejong).
+
+My email address is [wjosdejong@gmail.com](mailto:wjosdejong@gmail.com).
