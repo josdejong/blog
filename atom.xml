@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jos de Jong]]></title>
+  <link href="http://josdejong.github.io/atom.xml" rel="self"/>
+  <link href="http://josdejong.github.io/"/>
+  <updated>2013-07-20T17:12:58+02:00</updated>
+  <id>http://josdejong.github.io/</id>
+  <author>
+    <name><![CDATA[Jos de Jong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome!]]></title>
+    <link href="http://josdejong.github.io/blog/2013/07/19/welcome/"/>
+    <updated>2013-07-19T00:00:00+02:00</updated>
+    <id>http://josdejong.github.io/blog/2013/07/19/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome at my blog. I just installed it freshly using
+<a href="https://github.com/imathis/octopress">octopress</a>.
+Like everybody, I&rsquo;m very unique and have the world a lot of interesting things
+to tell ;&ndash;). So here we go.</p>
+]]></content>
+  </entry>
+  
+</feed>
