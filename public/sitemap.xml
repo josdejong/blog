@@ -2,15 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://josdejong.com/blog/2013/07/19/welcome/</loc>
-        <lastmod>2013-07-19T22:45:44+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://josdejong.com/blog/2013/07/19/test/</loc>
-        <lastmod>2013-07-20T14:51:09+02:00</lastmod>
+        <lastmod>2013-07-20T16:59:10+02:00</lastmod>
     </url>
     <url>
         <loc>http://josdejong.com/</loc>
-        <lastmod>2013-07-20T14:51:09+02:00</lastmod>
+        <lastmod>2013-07-20T16:59:10+02:00</lastmod>
     </url>
     <url>
         <loc>http://josdejong.com/projects/</loc>
@@ -18,7 +14,7 @@
     </url>
     <url>
         <loc>http://josdejong.com/blog/archives/</loc>
-        <lastmod>2013-07-20T14:51:09+02:00</lastmod>
+        <lastmod>2013-07-20T16:59:10+02:00</lastmod>
     </url>
     <url>
         <loc>http://josdejong.com/contact/</loc>
