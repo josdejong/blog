@@ -5,7 +5,7 @@ sharing: true
 footer: true
 ---
 
-<div style="float: right; margin: 0 0 20px 20px;">
+<div style="float: right; margin: 0 5px 20px 20px;">
     <img src="/images/about/jos.jpg" />
 </div>
 
