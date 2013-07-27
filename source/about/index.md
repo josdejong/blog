@@ -20,7 +20,6 @@ and a Master Systems and Control, both at Delft University of Technology.
 After my study I've worked in ICT and automation, and am currently working
 as Software Engineer at Almende, a Dutch research company specialized in
 information and communication technologies.
-Except for some courses, I am mainly a self-taught programmer.
 
 I'm a passionate programmer, both at work and in my spare time.
 I'm pragmatic and have a lot of attention for details.
