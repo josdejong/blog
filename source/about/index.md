@@ -15,8 +15,8 @@ and we have a lovely little girl to take care of.
 I believe God created this marvelous world
 where we can live, love, discover, and develop.
 
-I've done a Bachelor in Mechanical Engineering,
-and a Master Systems and Control, both at Delft University of Technology.
+I've studied at Delft University of Technology, and have a Bachelor
+Mechanical Engineering, and a Master Systems and Control.
 After my study I've worked in ICT and automation, and am currently working
 as Software Engineer at Almende, a Dutch research company specialized in
 information and communication technologies.
