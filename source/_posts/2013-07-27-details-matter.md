@@ -3,12 +3,10 @@ layout: post
 title: "Details matter"
 date: 2013-07-27
 comments: true
-categories: [application, quality, user experience, documentation]
+categories: [application, details, quality, user experience]
 ---
 
-The subtitle of this blog is "details matter".
-I have chosen this subtitle as it reflects a theme which pops up again and
-again at the software projects I am working on.
+This is a theme which pops up again and again at the software projects I am working on.
 I really liked this blog by Jeff Atwood in this regard, explaining
 [all your app is, is a collection of tiny details](
 http://www.codinghorror.com/blog/2012/05/this-is-all-your-app-is-a-collection-of-tiny-details.html).
