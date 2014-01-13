@@ -25,10 +25,6 @@ levels. The article discusses this in two sections:
 
 ## End user experience
 
-<div class="image">
-  <img src="/images/posts/details-matter/why-is-my-computer-running-slow.jpg" style="width: 277px; height: 297px;">
-</div>
-
 A decade ago people where used to adapting themselves to
 the vagaries of software applications - they had no choice. This is kind of
 the world up-side down: computers and applications should make peoples life

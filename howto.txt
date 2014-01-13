@@ -4,3 +4,9 @@ rake preview  Locally preview the site on http://localhost:4000
 
 rake generate Generate site in folder _deploy
 rake deploy   Push all changes to remote master
+
+
+
+To resolve issue with outdated version of rake:
+
+bundle exec rake preview
