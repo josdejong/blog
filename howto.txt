@@ -10,3 +10,5 @@ rake deploy   Push all changes to remote master
 To resolve issue with outdated version of rake:
 
 bundle exec rake preview
+bundle exec rake generate
+bundle exec rake deploy

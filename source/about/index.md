@@ -11,7 +11,7 @@ footer: true
 
 I'm Jos de Jong, living and working in Rotterdam, the Netherlands.
 I'm happily married with the nicest girl in the world,
-and we have a lovely little girl to take care of.
+and we have a lovely little girl and a baby boy to take care of.
 I believe God created this marvelous world
 where we can live, love, discover, and develop.
 
