@@ -3,7 +3,7 @@ layout: post
 title: "Shaped by the language you use"
 date: 2014-01-13
 comments: true
-categories: [language]
+categories: [language, paradigms]
 ---
 
 
