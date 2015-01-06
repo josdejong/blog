@@ -59,7 +59,7 @@ An important ingredient for reusability is separating interface from implementat
 
 Abstracting from implementations is a great solution when applied in the right cases. For example when using an ODBC driver to communicate with different types of SQL databases without having to write database specific code.
 
-Especially in the Java world, I see a tendency to overuse and misuse this type of abstraction via interfaces. In order to "decouple" from any third party library, one might create an abstraction layer consisting of an interface and wrapper classes around this library. It's as if some Java programmers don't dare to make *any* concrete choice, and want to be able to replace *everything* without having to change *anything* in their code. Therefore, they introduce lots of abstractions and plenty of configuration. This results in very generic code, not bound to specific implementations. It may look like a great, generic, reusable solution. In practice however, these solutions are easily too complicated to be usable at all.
+Especially in the Java world, I see a tendency to overuse and misuse this type of abstraction via interfaces. It's as if some Java programmers don't dare to make *any* concrete choice, and want to be able to replace *everything* without having to change *anything* in their code. Therefore, they introduce lots of abstractions and plenty of configuration. This results in very generic code, not bound to specific implementations. It may look like a great, generic, reusable solution. In practice however, these solutions are easily too complicated to be usable at all.
 
 As Mark Seeman puts it in his blog *[Interfaces are not abstractions](http://blog.ploeh.dk/2010/12/02/Interfacesarenotabstractions/)*:
 
