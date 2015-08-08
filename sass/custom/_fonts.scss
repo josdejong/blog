@@ -3,7 +3,8 @@
 // If you love to use Web Fonts, you also need to add some lines to source/_includes/custom/head.html
 
 // $sans: "Open Sans","Helvetica Neue", Arial, sans-serif !default;
-$serif: Lustria, Georgia, Times, "Times New Roman", serif !default;
+$sans: Georgia, Times, "Times New Roman", serif !default; // TODO: change css to use $serif instead for articles
+$serif: Georgia, Times, "Times New Roman", serif !default;
 // $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
 // $heading-font-family: karla, "josefin sans", "josefin slab", "ubuntu", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 $heading-font-family: $serif !default;
