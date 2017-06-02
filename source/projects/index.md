@@ -46,9 +46,21 @@ The tree editor allows you to edit, add, move, remove, and duplicate fields and
 values, and easily change the type of values.
 In the code editor, JSON data can be formatted, compacted, and inspected.
 
-Website: http://jsoneditoronline.com
+Website: http://jsoneditoronline.org
 
-[![JSON Editor Online](/images/projects/jsoneditoronline.png)](http://jsoneditoronline.com)
+[![JSON Editor Online](/images/projects/jsoneditoronline.png)](http://jsoneditoronline.org)
+
+
+## tttimestamps
+
+tttimestamps converts timestamps, ISO strings, dates, and more. You can
+enter any date-like input in the main text field above and press enter.
+Entered inputs appear in an editable table displaying various time
+formats side by side. The table columns and timezones are configurable.
+
+Website: https://tttimestamps.com
+
+[![tttimestamps](/images/projects/tttimestamps.png)](https://tttimestamps.com)
 
 
 ## vis.js
@@ -77,3 +89,16 @@ Eve is developed by Almende B.V.
 Website: http://eve.almende.com
 
 [![Eve](/images/projects/eve.png)](http://eve.almende.com)
+
+
+## VBI
+
+VBI is an interactive business intelligence tool aimed at startups and
+small companies who want to get a grip on their business model and
+financials. It starts with filling out a rough business canvas model,
+and from there helps you refine into a concrete financial model
+describing profit and loss, balance sheet, and cashflow.
+
+Website: http://vanpaz-business-intelligence.herokuapp.com/
+
+[![VBI](/images/projects/vbi.png)](https://vanpaz-business-intelligence.herokuapp.com)
