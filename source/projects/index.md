@@ -54,7 +54,7 @@ Website: http://jsoneditoronline.org
 ## tttimestamps
 
 tttimestamps converts timestamps, ISO strings, dates, and more. You can
-enter any date-like input in the main text field. Entered inputs appear
+enter any date-like input in the main input field. Entered inputs appear
 in an editable table displaying various time formats side by side.
 The table columns and timezones are configurable.
 
