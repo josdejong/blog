@@ -51,7 +51,7 @@ The following table shows an (incomplete) list with similar functionality availa
 
 Functionality         | Browser               | Node.js
 --------------------- | --------------------- | -------------------
-Module system         | none                  | [CommonJS](http://dailyjs.com/2010/10/18/modules/)
+Module system         | none                  | [CommonJS](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/)
 HTTP requests         | [XMLHttpRequest (AJAX)](https://developer.mozilla.org/en/docs/AJAX)             | [http](https://nodejs.org/docs/latest/api/http.html)
 Sockets               | [WebSocket](http://www.html5rocks.com/en/tutorials/websockets/basics/)          | [net](https://nodejs.org/docs/latest/api/net.html)
 WebRTC                | [WebRTC](http://www.webrtc.org/web-apis), [peer.js](http://peerjs.com/)         | [node-webrtc](https://github.com/js-platform/node-webrtc)
@@ -147,3 +147,5 @@ There is a lot going on in the JavaScript world. Innovation is taking place at a
 In order to ease full stack JavaScript development, we need to take away the hurdles keeping these worlds separated. We need to come up with unified, isomorphic solutions for common functionality like module loading (ES6 to the rescue), networking, background processes, logging, and others.
 
 There are opportunities here. JavaScript is already going full speed. Let's ignite the after burners and go crazy.
+
+_Update 2018-01-10: Replaced a broken link to an article about the CommonJS module system._
