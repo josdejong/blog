@@ -1,4 +1,4 @@
-On Ubuntu, first install ruby full version and bundler:
+On Ubuntu, first install ruby 1.9.1 and bundler:
 
     sudo apt-get install ruby1.9.1-full
     sudo gem install bundler
