@@ -25,9 +25,9 @@ I'm a passionate programmer, both at work and in my spare time.
 I'm pragmatic and have a lot of attention for details.
 Always overflowing with great ideas to work on
 (which tend to pop up at times I should sleep or when taking a shower).
-I have 19 years of programming experience and am familiar with languages such
-as a various Basic languages, C++, Java, Android, PHP, Python, JavaScript and 
-node.js, HTML, CSS, SQL, Matlab, and PLC programming.
+I have 20 years of programming experience and am familiar with languages such
+as a various Basic languages, C++, Matlab, PLC programming Java, Android,
+Kotlin, PHP, Python, R, JavaScript and node.js, HTML, CSS, SQL, NoSQL, GraphQL.
 I'm always looking around for new tools, techniques, and languages to make
 programming even more fun.
 I enjoy the creative process that programming is, especially these moments
