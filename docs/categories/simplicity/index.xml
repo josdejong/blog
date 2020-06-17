@@ -14,10 +14,10 @@
     
     <item>
       <title>How to keep your code simple and maintainable</title>
-      <link>https://josdejong.com/posts/2020-06-17-how-to-keep-your-code-simple-and-maintainable-copy/</link>
+      <link>https://josdejong.com/posts/2020-06-17-how-to-keep-your-code-simple-and-maintainable/</link>
       <pubDate>Wed, 17 Jun 2020 01:00:00 +0000</pubDate>
       
-      <guid>https://josdejong.com/posts/2020-06-17-how-to-keep-your-code-simple-and-maintainable-copy/</guid>
+      <guid>https://josdejong.com/posts/2020-06-17-how-to-keep-your-code-simple-and-maintainable/</guid>
       <description>When developing a new application, your code base starts small and simple. Over time, your code grows and becomes more complex. It can be hard to fight complexity and keep a code base maintainable in the long run. Here some principles that help me with that.
 Recon with the cost of maintaining code, not just the cost of development When buying a car, it&amp;rsquo;s quite easy to reckon with both the cost of the one-time purchase as well as ongoing costs like fuel, taxes, and maintenance.</description>
     </item>
