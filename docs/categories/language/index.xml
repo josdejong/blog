@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>language on Jos de Jong</title>
+    <link>https://josdejong.com/categories/language/</link>
+    <description>Recent content in language on Jos de Jong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2013-2020 &lt;a href=&#39;https://josdejong.com&#39;&gt;Jos de Jong&lt;/a&gt; &amp;bull; powered by &lt;a href=&#39;https://gohugo.io/&#39;&gt;Hugo&lt;/a&gt; &amp;bull; background from &lt;a href=&#39;https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg&#39;&gt;technobuffalo&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 13 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://josdejong.com/categories/language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shaped by the language you use</title>
+      <link>https://josdejong.com/blog/2014/01/13/shaped-by-the-language-you-use/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://josdejong.com/blog/2014/01/13/shaped-by-the-language-you-use/</guid>
+      <description>A few months ago I did an astonishing discovery, namely how strong your solutions are shaped by the programming language you use, the language that lives in your head. The interesting thing is that I already knew this. But despite that, I hadn&amp;rsquo;t expected this to be so incredibly influencing until I saw such a clear case of this in my own work.
+The right tool for the right job First a short explanation of my programming background.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>application on Jos de Jong</title>
+    <link>https://josdejong.com/categories/application/</link>
+    <description>Recent content in application on Jos de Jong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2013-2020 &lt;a href=&#39;https://josdejong.com&#39;&gt;Jos de Jong&lt;/a&gt; &amp;bull; powered by &lt;a href=&#39;https://gohugo.io/&#39;&gt;Hugo&lt;/a&gt; &amp;bull; background from &lt;a href=&#39;https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg&#39;&gt;technobuffalo&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 27 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://josdejong.com/categories/application/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Details matter</title>
+      <link>https://josdejong.com/blog/2013/07/27/details-matter/</link>
+      <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://josdejong.com/blog/2013/07/27/details-matter/</guid>
+      <description>This is a theme which pops up again and again at the software projects I am working on. I really liked this blog by Jeff Atwood in this regard, explaining all your app is, is a collection of tiny details. Software which has not taken care of details right can be extremely annoying, and vice versa, an application having its details right can be real joy to work with.
+This article explains the importance of paying attention to details in application development.</description>
+    </item>
+    
+  </channel>
+</rss>

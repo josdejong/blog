@@ -1,4 +1,5 @@
 baseURL = "https://josdejong.com/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Jos de Jong"
 theme = "hugo_theme_pickles"

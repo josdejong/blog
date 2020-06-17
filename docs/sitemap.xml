@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://josdejong.com/categories/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/code/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/complexity/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/posts/2020-06-17-how-to-keep-your-code-simple-and-maintainable-copy/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/maintainability/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/posts/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/simplicity/</loc>
+    <lastmod>2020-06-17T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/blog/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/posts/2020-06-17-blog-migrated/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/about/</loc>
+    <lastmod>2020-06-14T11:24:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/pages/</loc>
+    <lastmod>2020-06-14T11:24:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/projects/</loc>
+    <lastmod>2020-06-14T11:24:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/dependency-injection/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/es6/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/mathjs/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2019/06/08/mathjs-v6-a-monolith-turned-modular/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/modular/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/monolith/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/refactor/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/tree-shaking/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2016/08/24/batteries-included/</loc>
+    <lastmod>2016-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/composability/</loc>
+    <lastmod>2016-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/configuration/</loc>
+    <lastmod>2016-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/libraries/</loc>
+    <lastmod>2016-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/usability/</loc>
+    <lastmod>2016-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/dynamic-typing/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/interoperability/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/nominal-typing/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/scalability/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/static-typing/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2016/06/05/static-typing-the-good-parts/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/structural-typing/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/</loc>
+    <lastmod>2015-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/modularization/</loc>
+    <lastmod>2015-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/typed-function/</loc>
+    <lastmod>2015-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2015/03/28/a-broader-view-on-isomorphic-javascript/</loc>
+    <lastmod>2015-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/api/</loc>
+    <lastmod>2015-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/cross-environment/</loc>
+    <lastmod>2015-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/isomorphic/</loc>
+    <lastmod>2015-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/cohesion/</loc>
+    <lastmod>2015-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/coupling/</loc>
+    <lastmod>2015-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/genericity/</loc>
+    <lastmod>2015-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/modularity/</loc>
+    <lastmod>2015-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2015/01/06/code-reuse/</loc>
+    <lastmod>2015-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/reuse/</loc>
+    <lastmod>2015-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/flexibility/</loc>
+    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2014/10/18/the-art-of-creating-simple-but-flexible-apis/</loc>
+    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/language/</loc>
+    <lastmod>2014-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/paradigms/</loc>
+    <lastmod>2014-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2014/01/13/shaped-by-the-language-you-use/</loc>
+    <lastmod>2014-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/asynchronousity/</loc>
+    <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/concurrency/</loc>
+    <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/multithreading/</loc>
+    <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2013/09/18/multithreading-is-todays-goto/</loc>
+    <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/parallelization/</loc>
+    <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/application/</loc>
+    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/details/</loc>
+    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2013/07/27/details-matter/</loc>
+    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/quality/</loc>
+    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/categories/user-experience/</loc>
+    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/blog/2013/07/19/welcome/</loc>
+    <lastmod>2013-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josdejong.com/tags/</loc>
+  </url>
+  
+</urlset>

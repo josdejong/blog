@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jos de Jong</title>
+    <link>https://josdejong.com/tags/</link>
+    <description>Recent content in Tags on Jos de Jong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2013-2020 &lt;a href=&#39;https://josdejong.com&#39;&gt;Jos de Jong&lt;/a&gt; &amp;bull; powered by &lt;a href=&#39;https://gohugo.io/&#39;&gt;Hugo&lt;/a&gt; &amp;bull; background from &lt;a href=&#39;https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg&#39;&gt;technobuffalo&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://josdejong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

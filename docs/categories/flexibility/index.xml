@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flexibility on Jos de Jong</title>
+    <link>https://josdejong.com/categories/flexibility/</link>
+    <description>Recent content in flexibility on Jos de Jong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2013-2020 &lt;a href=&#39;https://josdejong.com&#39;&gt;Jos de Jong&lt;/a&gt; &amp;bull; powered by &lt;a href=&#39;https://gohugo.io/&#39;&gt;Hugo&lt;/a&gt; &amp;bull; background from &lt;a href=&#39;https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg&#39;&gt;technobuffalo&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 18 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://josdejong.com/categories/flexibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The art of creating simple but flexible APIs</title>
+      <link>https://josdejong.com/blog/2014/10/18/the-art-of-creating-simple-but-flexible-apis/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://josdejong.com/blog/2014/10/18/the-art-of-creating-simple-but-flexible-apis/</guid>
+      <description>A while ago I read the blog post Ranging Near and Far by Scott Sauyet. On Echo JS, Scott titled a link to this blog &amp;ldquo;Choosing simple APIs over flexible ones&amp;rdquo;. This title suggests that you have to choose between either simple or flexible APIs, which is a false dilemma. This got me thinking: What makes a good API?
+Flexibility Scott discusses the API of the range function of Ramda compared to that of Underscore.</description>
+    </item>
+    
+  </channel>
+</rss>

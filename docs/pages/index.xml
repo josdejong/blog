@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jos de Jong</title>
+    <link>https://josdejong.com/pages/</link>
+    <description>Recent content in Pages on Jos de Jong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2013-2020 &lt;a href=&#39;https://josdejong.com&#39;&gt;Jos de Jong&lt;/a&gt; &amp;bull; powered by &lt;a href=&#39;https://gohugo.io/&#39;&gt;Hugo&lt;/a&gt; &amp;bull; background from &lt;a href=&#39;https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg&#39;&gt;technobuffalo&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 14 Jun 2020 11:24:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://josdejong.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://josdejong.com/about/</link>
+      <pubDate>Sun, 14 Jun 2020 11:24:48 +0200</pubDate>
+      
+      <guid>https://josdejong.com/about/</guid>
+      <description>I&amp;rsquo;m Jos de Jong, living and working in Rotterdam, the Netherlands. I&amp;rsquo;m happily married with the nicest girl in the world, and we have a lovely little girl and a boy to take care of. I believe God created this marvelous world where we can live, love, discover, and develop.
+I&amp;rsquo;ve studied at Delft University of Technology, and have a Bachelor Mechanical Engineering, and a Master Systems and Control. After my study I&amp;rsquo;ve worked in ICT and automation, and am currently working as a Software Engineer at Almende, a Dutch research company specialized in information and communication technologies.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://josdejong.com/projects/</link>
+      <pubDate>Sun, 14 Jun 2020 11:24:32 +0200</pubDate>
+      
+      <guid>https://josdejong.com/projects/</guid>
+      <description>This page gives an overview on the projects I&amp;rsquo;m working on. These include projects I work on at work as well as in my spare time.
+math.js Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with real and complex numbers, units, and matrices. Powerful and easy to use.
+Website: https://mathjs.org
+
+Math Notepad Math Notepad is a web based editor for mathematical calculations.</description>
+    </item>
+    
+  </channel>
+</rss>
