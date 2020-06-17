@@ -18,7 +18,7 @@ disqusShortname = "josdejong"
   custom_css = ["css/custom_style.css"]
 
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = "/"
     weight = 1
 
