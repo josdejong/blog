@@ -1,0 +1,41 @@
+baseURL = "https://josdejong.com/"
+languageCode = "en-us"
+title = "Jos de Jong"
+theme = "hugo_theme_pickles"
+copyright = "Copyright &copy; 2013-2020 <a href='https://josdejong.com'>Jos de Jong</a> &bull; powered by <a href='https://gohugo.io/'>Hugo</a> &bull; background from <a href='https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg'>technobuffalo</a>"
+
+googleAnalytics = "UA-42777816-1"
+
+disqusShortname = "josdejong"
+
+[params]
+  subtitle = "a blog about programming and web development"
+  github="josdejong"
+  linkedin="jos-de-jong-b1345615"
+  feed="index.xml"
+  favicon = "favicon.png"
+  custom_css = ["css/custom_style.css"]
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    url = "/projects"
+    weight = 2
+
+[[menu.main]]
+    name = "About me"
+    identifier = "about"
+    url = "/about"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # to allow inline HTML
+  [markup.highlight]
+    style = "monokai"
