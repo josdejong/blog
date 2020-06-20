@@ -2,7 +2,6 @@ baseURL = "https://josdejong.com/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Jos de Jong"
-theme = "hugo_theme_pickles"
 copyright = "Copyright &copy; 2013-2020 <a href='https://josdejong.com'>Jos de Jong</a> &bull; powered by <a href='https://gohugo.io/'>Hugo</a> and <a href='https://pages.github.com/'>GitHub pages</a> &bull; background from <a href='https://www.technobuffalo.com/sites/technobuffalo.com/files/wp/2010/11/tb-wallpaper-blue-2560x1440.jpg'>technobuffalo</a>"
 
 googleAnalytics = "UA-42777816-1"
