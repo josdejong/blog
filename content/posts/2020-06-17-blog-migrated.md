@@ -1,7 +1,7 @@
 ---
 categories:
 - blog
-comments: false
+comments: true
 date: "2020-06-17T00:00:00Z"
 title: Blog migrated
 draft: false

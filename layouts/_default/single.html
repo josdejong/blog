@@ -32,24 +32,31 @@
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     {{ end }}
-    <nav class="p-pagination c-pagination">
-      <div class="c-pagination__ctrl">
-        <div class="c-pagination__newer">
-          {{ if .NextInSection }}
-          <a href="{{ .NextInSection.Permalink }}">Newer</a>
-          {{ else }}
-          {{ end }}
+    {{ if ne .Params.pagination false }}
+      <nav class="p-pagination c-pagination">
+        <div class="c-pagination__ctrl">
+          <div class="c-pagination__newer">
+            {{ if .NextInSection }}
+            <a href="{{ .NextInSection.Permalink }}">Newer</a>
+            {{ else }}
+            {{ end }}
+          </div>
+          <div class="c-pagination__older">
+            {{ if .PrevInSection }}
+            <a href="{{ .PrevInSection.Permalink }}">Older</a>
+            {{ else }}
+            {{ end }}
+          </div>
         </div>
-        <div class="c-pagination__older">
-          {{ if .PrevInSection }}
-          <a href="{{ .PrevInSection.Permalink }}">Older</a>
-          {{ else }}
-          {{ end }}
-        </div>
-      </div>
-    </nav>
+      </nav>
+    {{ end }}
     {{ partial "related.html" . }}
     {{ partial "siteinfo.html" . }}
   </footer>
 </article>
+
+{{ if .Params.comments }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}
+
 {{ partial "footer.html" . }}

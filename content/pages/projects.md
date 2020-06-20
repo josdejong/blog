@@ -3,6 +3,7 @@ title: "Projects"
 date: 2020-06-14T11:24:32+02:00
 draft: false
 comments: false
+pagination: false
 url: "projects/"
 ---
 

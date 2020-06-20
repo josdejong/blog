@@ -4,6 +4,7 @@ type: "pages"
 date: 2020-06-14T11:24:48+02:00
 draft: false
 comments: false
+pagination: false
 url: "about/"
 ---
 
