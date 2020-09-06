@@ -30,4 +30,4 @@ When the article is finished and ready to publish, remove the line `draft = true
 ## How to publish
 
 - Write a new article, once done, set `draft=false`, commit the new article with git.
-- To publish, run `sh publish.sh`
+- To publish, run `pubish.bat`
