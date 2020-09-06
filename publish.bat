@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # clear old data
 rm -rf docs
 
