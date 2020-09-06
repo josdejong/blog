@@ -13,7 +13,7 @@ disqusShortname = "josdejong"
   github="josdejong"
   linkedin="jos-de-jong-b1345615"
   feed="/index.xml"
-  favicon = "favicon.png"
+  favicon = "favicon.jpg"
   custom_css = ["css/custom_style.css"]
 
 [[menu.main]]

@@ -8,8 +8,8 @@ pagination: false
 url: "about/"
 ---
 
-<div style="float: right; margin: 0 5px 20px 20px;">
-    <img src="/images/about/jos.jpg" />
+<div style="float: right; margin: 0 0 5px 20px;">
+    <img src="/images/about/jos_2020.jpg" />
 </div>
 
 I'm Jos de Jong, living and working in Rotterdam, the Netherlands.
@@ -20,9 +20,12 @@ where we can live, love, discover, and develop.
 
 I've studied at Delft University of Technology, and have a Bachelor
 Mechanical Engineering, and a Master Systems and Control.
-After my study I've worked in ICT and automation, and am currently working
-as a Software Engineer at Almende, a Dutch research company specialized in
-information and communication technologies.
+After my study I've worked in ICT and production automation at Quooker. 
+After that I've worked as a Software Engineer at Almende, a Dutch research 
+company specialized in information and communication technologies centering 
+around self-organisation. Currently, I'm working at Teqplay, developing next 
+generation software to make life easier for people working in the maritime 
+industry.
 
 I'm a passionate programmer, both at work and in my spare time.
 I'm pragmatic and have a lot of attention for details.
