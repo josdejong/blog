@@ -1,7 +1,7 @@
 ---
 title: "About"
 type: "pages"
-date: 2020-06-14T11:24:48+02:00
+date: 2022-03-01T09:33:00+01:00
 draft: false
 comments: false
 pagination: false
