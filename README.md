@@ -30,4 +30,5 @@ When the article is finished and ready to publish, remove the line `draft = true
 ## How to publish
 
 - Write a new article, once done, set `draft=false`, commit the new article with git.
-- To publish, run `pubish.bat`
+- Commit and push the `main` branch to GitHub, the website is published via GitHub Actions: https://github.com/josdejong/blog/actions.
+
