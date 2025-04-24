@@ -33,7 +33,7 @@ I'm a passionate programmer.
 I'm pragmatic and have a lot of attention for details.
 Always overflowing with great ideas to work on
 (which tend to pop up at times I should sleep or when taking a shower).
-I have 20 years of programming experience and am familiar with languages and
+I have 25 years of programming experience and am familiar with languages and
 frameworks such as a various Basic languages, C++, Matlab, PLC programming,
 Java, Android, Kotlin, Spring Boot, 
 PHP, Python, R, 
