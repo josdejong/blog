@@ -41,7 +41,7 @@ One can plot interactive graphs and define custom variables and functions.
 Expressions are entered in an editable sheet,
 which automatically updates results when changing an expression.
 
-Math Notepad is the successor of [SpeQ Mathematics](http://speqmath.com),
+Math Notepad is the successor of [SpeQ Mathematics](https://speqmath.com),
 which had a similar goal.
 
 Website: https://mathnotepad.com
@@ -145,6 +145,6 @@ financials. It starts with filling out a rough business canvas model,
 and from there helps you refine into a concrete financial model
 describing profit and loss, balance sheet, and cashflow.
 
-Website: http://vanpaz-business-intelligence.herokuapp.com/
+Website: <not available anymore>
 
-[![VBI](/images/projects/vbi.png)](https://vanpaz-business-intelligence.herokuapp.com)
+![VBI](/images/projects/vbi.png)

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://josdejong.com/sitemap.xml 
+Sitemap: https://josdejong.com/sitemap.xml
