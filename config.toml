@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://josdejong.com/"
 publishDir = "dist"
 languageCode = "en-us"
 title = "Jos de Jong"
