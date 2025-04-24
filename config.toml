@@ -39,3 +39,7 @@ disqusShortname = "josdejong"
       unsafe = true # to allow inline HTML
   [markup.highlight]
     style = "monokai"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
