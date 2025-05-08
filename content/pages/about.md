@@ -14,7 +14,7 @@ url: "about/"
 
 I'm Jos de Jong, living and working in Rotterdam, the Netherlands.
 I'm happily married with the nicest girl in the world,
-and we have two awesome kids to take care of.
+and we have two awesome kids to take care of, plus two more in the weekends.
 I believe God created this marvelous world
 where we can live, love, discover, and develop.
 
@@ -46,11 +46,7 @@ where you finally figure out the right way to express something complicated
 in a clear and easy to understand way.
 
 Things I'm interested in subjects like modeling of dynamic systems, mathematics,
-robotics, programming, web applications, machine learning, distributed systems,
-software agent technology, handling large amounts of data,
-software architecture, managing code complexity, user experience, 
-doing the right thing (as opposed to doing things right), and more.
-There is just so much interesting stuff to work on!
+robotics, programming, web applications, machine learning, distributed systems, handling large amounts of data, software architecture, managing code complexity, user experience, doing the right thing (as opposed to doing things right), coaching, and more. There is just so much interesting stuff to work on!
 
 You can contact me via wjosdejong@gmail.com, 
 and find me on github [@josdejong](https://github.com/josdejong).
