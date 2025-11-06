@@ -58,33 +58,32 @@ Website: https://jsonquerylang.org
 
 ## Tabular-JSON
 
-Tabular-JSON is a data format. It is a superset of JSON, adding CSV-like tables and optional quotes. It is:
+Tabular-JSON is a data format. It is a superset of JSON, adding CSV-like tables. It is:
 
 - A replacement for CSV without its ambiguities and limitation of tabular data structures
-- A replacement for JSON without its verbosity
-- A replacement for NDJSON without its verbosity
+- A replacement for JSON without its verbosity with tabular data
 
-Tabular-JSON aims to be just as simple as JSON and CSV. It combines the best of JSON, CSV, and NDJSON, but without their drawbacks. It is human-readable, compact, and supports rich data structures and streaming. The aim of Tabular-JSON is to be a data format, not a configuration format.
+Tabular-JSON aims to be just as simple as JSON and CSV. It combines the best of JSON and CSV, but without their drawbacks. It is human-readable, compact, and supports rich data structures and streaming. The aim of Tabular-JSON is to be a data format, not a configuration format.
 
 Website: https://tabular-json.org/
 
-Here an example of Tabular-JSON data:
+Here is an example of Tabular-JSON data:
 
 ```text
 {
-  name: rob,
-  hobbies: [
-    swimming,
-    biking
+  "name": "rob",
+  "hobbies": [
+    "swimming",
+    "biking",
   ],
-  friends: ---
-    id, name,  address.city, address.street
-    2,  joe,   New York,     "1st Ave"
-    3,  sarah, Washington,   "18th Street NW"
+  "friends": ---
+    "id", "name",  "address"."city", "address"."street"
+    2,    "joe",   "New York",       "1st Ave"
+    3,    "sarah", "Washington",     "18th Street NW"
   ---,
-  address: {
-    city: New York,
-    street: "1st Ave"
+  "address": {
+    "city": "New York",
+    "street": "1st Ave",
   }
 }
 ```
@@ -92,9 +91,9 @@ Here an example of Tabular-JSON data:
 And here a table at root level (the rows are streamable):
 
 ```text
-id, name,  address.city, address.street
-2,  joe,   New York,     "1st Ave"
-3,  sarah, Washington,   "18th Street NW"
+"id", "name",  "address"."city", "address"."street"
+2,    "joe",   "New York",       "1st Ave"
+3,    "sarah", "Washington",     "18th Street NW"
 ```
 
 ## tttimestamps
