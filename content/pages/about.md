@@ -49,4 +49,4 @@ Things I'm interested in subjects like modeling of dynamic systems, mathematics,
 robotics, programming, web applications, machine learning, distributed systems, handling large amounts of data, software architecture, managing code complexity, user experience, doing the right thing (as opposed to doing things right), coaching, and more. There is just so much interesting stuff to work on!
 
 You can contact me via email@josdejong.com, 
-and find me on github [@josdejong](https://github.com/josdejong).
+and find me on GitHub [@josdejong](https://github.com/josdejong).
